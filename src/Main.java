@@ -9,6 +9,16 @@ public class Main {
         System.out.println("6.git branch - ver las ramas");
         System.out.println("7.git fetch - ramas remotas");
         System.out.println("8.git switch -c - crear y posicionarse sobre la rama");
+
+        
+        System.out.println("Andres Felipe Alfonso Rodriguez" );
+        System.out.println("No tengo mascotas");
+
+
+        //repaso
+        //1. rama con mi nombre
+        //2. debajo de los comandos agregar nombre completo - lugar donde vive - mascotas(tipo y nombre)
+
     }
 
     }

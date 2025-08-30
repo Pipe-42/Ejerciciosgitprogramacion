@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("Andres Felipe Alfonso Rodriguez" );
         System.out.println("Chia");
-        System.out.println("No tengo mascotas");
+        System.out.println("No tengo mascotas");git
 
 
         //repaso
